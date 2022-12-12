@@ -13,7 +13,7 @@ Who Are We
 * Kasper (?) (**coach**)
 * Anne-Marie Mohr (**sportschef**)
 
-On Board The KDY Dinghy Academy
--------------------------------
+Dinghy KDY - On Board Diaries
+-----------------------------
 
 Read more about our training sessions `here <https://dinghy-kdy.github.io/dinghy-kdy/>`_.
