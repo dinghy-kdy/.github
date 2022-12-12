@@ -16,4 +16,4 @@ Who Are We
 On Board The KDY Dinghy Academy
 -------------------------------
 
-Read more about our training sessions [here](https://dinghy-kdy.github.io/dinghy-kdy/).
+Read more about our training sessions `here <https://dinghy-kdy.github.io/dinghy-kdy/>`_.
