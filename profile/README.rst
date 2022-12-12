@@ -12,3 +12,8 @@ Who Are We
 * Lærke Nørgaard (**coach**)
 * Kasper (?) (**coach**)
 * Anne-Marie Mohr (**sportschef**)
+
+On Board The KDY Dinghy Academy
+-------------------------------
+
+Read more about our training sessions [here](https://dinghy-kdy.github.io/dinghy-kdy/).
